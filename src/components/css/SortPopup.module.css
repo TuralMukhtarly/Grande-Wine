@@ -1,0 +1,35 @@
+.sort{
+    position: relative;
+    margin-right: 16px;
+}
+.sort__label{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.sort__popup{
+    position: absolute;
+    right: 0;
+    margin-top: 15px;
+    background: #ffffff;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.09);
+    border-radius: 10px;
+    overflow: hidden;
+    padding: 0 30px 0 0 ;
+    width: 160px;
+}
+.sort__popup ul{
+    overflow: hidden;
+}
+
+.sort__popup li{
+    cursor: pointer;
+    text-align: center;
+}
+.sort__popup li:hover{
+    background-color: #0c558d96;
+}
+.sort__popup li:active{
+    background-color: #0c558d92;    
+    font-weight: bold;
+}

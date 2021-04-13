@@ -1,0 +1,72 @@
+.container_beverages{
+    display: flex;
+    flex-wrap: wrap;
+}
+.beverages_block{
+    width: 220px;
+    text-align: center;
+    margin-bottom: 65px;
+    margin: 0 19px;
+    
+}
+.beverages_block__image{
+    width: 160px;
+    border-radius: 4px;
+    padding: 12px;
+}
+.beverages_block__title{
+    font-size: 18px;
+    font-weight: 800;
+    letter-spacing: 1%;
+    margin-bottom: 5px;
+}
+.beverages_block__text span {
+    font-weight: 500;
+    font-style: italic;
+}
+.beverages_block__div{
+    /* display: flex; */
+    /* justify-content: center; */
+    /* border-radius: 18px; */
+    /* border: 3px solid black; */
+    margin: 5px 0 0 -16px;
+}
+
+.beverages_block__selector li{
+    display: inline;
+    cursor: pointer;
+    margin-right: 40px;
+    width: 20px;
+    font-size: 24px;
+    padding: 6px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+.beverages_block__selector li:active{
+    background: #f1eaea;
+    box-shadow: 0px 2px 4px rgba(70, 69, 69, 0.29);
+    border-radius: 5px;
+    cursor: auto;
+}
+.beverages_block__bottom{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 14px;
+}
+.beverages_block__price{
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 20px;
+}
+
+.button{
+    border-radius: 30px;
+}
+.button__outline{
+    background-color: #2A172C;
+}
+.button__outline span{
+    color: rgb(244, 244, 244);
+    font-weight: 800;
+}

@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@300&display=swap');
+
+.container_present{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+}
+.container_present span{
+    font-size: 22px;
+    margin: 10px;
+}
+.container_present div{
+    margin: 20px 5px 0 5px;
+}
+.present__item{
+    display: flex;
+}
+.present__item h2{
+    font-family: 'Crimson Text', serif;
+}
+
+.present__item div{
+    /* margin: 20px; */
+    padding: 2px;
+    border: 10px solid #9e8b77;
+}

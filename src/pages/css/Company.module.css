@@ -1,0 +1,19 @@
+.company_block{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: 22px;
+}
+.company_block img{
+    margin: 20px 0 0 0;
+}
+.company__items{
+    display: flex;
+    font-size: 20px;
+}
+.company__items div{
+    text-align: center;
+    margin: 6px;
+    padding: 20px;
+    border: 6px solid #9e8b77;
+}

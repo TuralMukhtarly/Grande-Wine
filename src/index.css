@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@300&display=swap');
+
+li.active{
+    background-color: #2A172C;    
+    color: rgb(255, 255, 255);
+}

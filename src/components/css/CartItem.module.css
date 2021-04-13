@@ -1,0 +1,25 @@
+.cart__item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cart__item_info{
+    width: 600px;
+    padding: 20px;
+}
+.button_remove{
+    border-radius: 10px;
+    width: 200px;
+    font-weight: 700
+}
+
+.button__back-btn button{
+    font-weight: 700;
+}
+
+.button__circle{
+    border-radius: 50%;
+    width: 50px;
+    margin: 0 10px 0 10px;
+}

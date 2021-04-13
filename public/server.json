@@ -1,0 +1,539 @@
+{
+    "beverages": [
+        {
+            "id": 0,
+            "imageUrl": "https://static.decanter.ru/image/291724-viski-macallan-triple-cask-matured-12-years-old-0-7-l.jpg",
+            "name": "Виски Macallan Triple 12",
+            "text": "Для выдержки используется три вида бочек: американские и европейские из-под хереса, плюс американские.",
+            "price": 134,
+            "sizes": [
+                0.5,
+                0.7,
+                1
+            ],
+            "category": 0,
+            "rating": 10
+        },
+        {
+            "id": 1,
+            "imageUrl": "https://static.decanter.ru/image/292876-viski-johnnie-walker-18-yo-0-7-l.jpg",
+            "name": "Виски Johnnie Walker 18",
+            "text":"Этот элегантный дымный бленд воплотил в себе характерный насыщенный вкус истинно шотландского виски.",
+            "price": 201,
+            "sizes": [
+                0.5,
+                0.7,
+                1
+            ],
+            "category": 0,
+            "rating": 2
+        },
+        {
+            "id": 2,
+            "imageUrl": "https://static.decanter.ru/image/292920-viski-royal-brackla-12-yo-0-7-l.jpg",
+            "name": "Виски Royal Brackla 12 YO",
+            "text":"Мягкий односолодовый скотч. Изготовлен на одной из самых молодых дистиллерий шотландского Спейсайда. ",
+            "price": 181,
+            "sizes": [
+                0.5,
+                0.7,
+                1
+            ],
+            "category": 0,
+            "rating": 5
+        },
+        {
+            "id": 3,
+            "imageUrl": "https://static.decanter.ru/image/293158-viski-bruichladdich-islay-barley-0-7-l.jpg",
+            "name": "Виски Bruichladdich Islay",
+            "text":" Этот виски создан на основе ячменя, урожай которого был выращен на участке Minester's Field хозяйства «Роксайд».",
+            "price": 209,
+            "sizes": [
+                0.5,
+                0.7,
+                1
+            ],
+            "category": 0,
+            "rating": 8
+        },
+        {
+            "id": 4,
+            "imageUrl": "https://static.decanter.ru/image/300385-viski-ardbeg-10-yo-0-7-l.jpg",
+            "name": "Виски Ardbeg 10 YO",
+            "price": 161,
+            "text": "Бочки Aberlour запечатываются корковыми. Это придает виски красивый темно-янтарный цвет.",
+            "sizes": [
+                0.5,
+                0.7,
+                1
+            ],
+            "category": 0,
+            "rating": 3
+        },
+        {
+            "id": 5,
+            "imageUrl": "https://static.decanter.ru/image/293306-viski-suntory-hakushu-12-yo-0-7-l.jpg",
+            "name": "Виски Chivas Regal 12 YO ",
+            "text": "Бочки Aberlour запечатываются корковыми, а не деревянными пробками. Это придает виски красивый темно-янтарный цвет и восхитительный аромат.",
+            "price": 97,
+            "sizes": [
+                0.5,
+                0.7,
+                1
+            ],
+            "category": 0,
+            "rating": 1
+        },
+        {
+            "id": 6,
+            "imageUrl": "https://static.decanter.ru/image/321376-viski-bruichladdich-organic-2010-0-7-l.jpg",
+            "name": "Виски Bruichladdich Organic",
+            "text": "Бочки Aberlour запечатываются корковыми, а не деревянными пробками. Это придает виски красивый темно-янтарный цвет и восхитительный аромат.",
+            "price": 221,
+            "sizes": [
+                0.5,
+                0.7,
+                1
+            ],
+            "category": 0,
+            "rating": 6
+        },
+        {
+            "id": 7,
+            "imageUrl": "https://static.decanter.ru/image/337493-viski-aberlour-12-years-old-0-7-l.jpg",
+            "name": "Виски Aberlour 12 Years Old",
+            "text": "Бочки Aberlour запечатываются корковыми, а не деревянными пробками. Это придает виски красивый темно-янтарный цвет и восхитительный аромат.",
+            "price": 139,
+            "sizes": [
+                0.5,
+                0.7,
+                1
+            ],
+            "category": 0,
+            "rating": 7
+        },
+        {
+            "id": 8,
+            "imageUrl": "https://static.decanter.ru/image/300291-viski-the-antiquary-12-yo-0-7-l.jpg",
+            "name": "Виски The Antiquary 12 YO",
+            "text": "Бочки Aberlour запечатываются корковыми, а не деревянными пробками. Это придает виски красивый темно-янтарный цвет и восхитительный аромат.",
+            "price": 112,
+            "sizes": [
+                0.5,
+                0.7,
+                1
+            ],
+            "category": 0,
+            "rating": 10
+        },
+        {
+            "id": 9,
+            "imageUrl": "https://static.decanter.ru/image/293940-viski-glen-elgin-aged-12-years-0-75-l.jpg",
+            "name": "Виски Glen Elgin Aged 12 YO",
+            "text": "Бочки Aberlour запечатываются корковыми, а не деревянными пробками. Это придает виски красивый темно-янтарный цвет и восхитительный аромат.",
+            "price": 167,
+            "sizes": [
+                0.5,
+                0.7,
+                1
+            ],
+            "category": 0,
+            "rating": 11
+        },
+        {
+            "id": 10,
+            "imageUrl": "https://static.decanter.ru/image/293138-viski-glenmorangie-tusail-0-7-l.jpg",
+            "name": "Виски Glenmorangie Tusail",
+            "text": "Бочки Aberlour запечатываются корковыми, а не деревянными пробками. Это придает виски красивый темно-янтарный цвет и восхитительный аромат.",
+            "price": 416,
+            "sizes": [
+                0.5,
+                0.7,
+                1
+            ],
+            "category": 0,
+            "rating": 12
+        },
+        {
+            "id": 11,
+            "imageUrl": "https://static.decanter.ru/image/292984-viski-jameson-black-barrel-0-7-l.jpg",
+            "name": "Виски Jameson Black Barrel",
+            "text": "Бочки Aberlour запечатываются корковыми, а не деревянными пробками. Это придает виски красивый темно-янтарный цвет и восхитительный аромат.",
+            "price": 87,
+            "sizes": [
+                0.5,
+                0.7,
+                1
+            ],
+            "category": 0,
+            "rating": 14
+        },
+
+        {
+            "id": 12,
+            "imageUrl": "https://static.decanter.ru/image/334366-kon-iak-martell-xo-extra-old-0-7-l.jpg",
+            "name": "Коньяк Martell XO Extra Old",
+            "text": "Изготовлен из спиртов Гран Шампани и Бордери с минимальной выдержкой 35 лет.",
+            "price": 387,
+            "sizes": [
+                0.5,
+                0.7,
+                1
+            ],
+            "category": 1,
+            "rating": 2
+        },
+        {
+            "id": 13,
+            "imageUrl": "https://static.decanter.ru/image/300885-kon-iak-hennessy-vsop-0-7-l.jpg",
+            "name": "Коньяк Hennessy VSOP",
+            "text": "Представляет собой ассамбляж 60 отборных спиртов с минимальным сроком выдержки 4 года.",
+            "price": 187,
+            "sizes": [
+                0.5,
+                0.7,
+                1
+            ],
+            "category": 1,
+            "rating": 6
+        },
+        {
+            "id": 14,
+            "imageUrl": "https://static.decanter.ru/image/334356-kon-iak-gautier-vs-0-7-l.jpg",
+            "name": "Коньяк Gautier VS",
+            "text": "Представляет собой ассамбляж 60 отборных спиртов с минимальным сроком выдержки 4 года.",
+            "price": 196,
+            "sizes": [
+                0.5,
+                0.7,
+                1
+            ],
+            "category": 1,
+            "rating": 5
+        },
+        {
+            "id": 15,
+            "imageUrl": "https://static.decanter.ru/image/300889-kon-iak-remy-martin-vsop-0-7-l.jpg",
+            "name": "Коньяк Remy Martin VSOP",
+            "text": "Самый популярный коньяк категории VSOP в мире, чей ассамбляж на 55% состоит из спиртов Гран Шампани, а еще на 45% – из о-де-ви Пти Шампани.",
+            "price": 226,
+            "sizes": [
+                0.5,
+                0.7,
+                1
+            ],
+            "category": 1,
+            "rating": 5
+        },
+        {
+            "id": 16,
+            "imageUrl": "https://static.decanter.ru/image/319323-kon-iak-meukow-vs-0-7-l.jpg",
+            "name": "Коньяк Meukow VS",
+            "text": "Производится первым и единственным русским коньячным домом во Франции, основанным в середине XIX столетия.",
+            "price": 130,
+            "sizes": [
+                0.5,
+                0.7,
+                1
+            ],
+            "category": 1,
+            "rating": 5
+        },
+        {
+            "id": 17,
+            "imageUrl": "https://static.decanter.ru/image/301117-kon-iak-tesseron-lot-76-xo-tradition-0-7-l.jpg",
+            "name": "Коньяк Tesseron Lot №76 XO Tradition",
+            "text": "Купаж представлен спиртами Гран Шампани производства 1970-1980х гг. Бочки с о-де-ви хранились в средневековых погребах не менее 25 лет.",
+            "price": 489,
+            "sizes": [
+                0.5,
+                0.7,
+                1
+            ],
+            "category": 1,
+            "rating": 4
+        },
+        {
+            "id": 18,
+            "imageUrl": "https://static.decanter.ru/image/301149-kon-iak-chateau-de-montifaud-heritage-louis-vallet-50-years-old-0-7-l.jpg",
+            "name": "Коньяк Chateau de Montifaud Heritage Louis Vallet 50 Years Old",
+            "text": "Изготовлен из лучших спиртов Пти Шампани, перегонка которых осуществлялась в период с 1947 по 1953 гг. Выдержан в бочках из редкого красного дуба.",
+            "price": 1020,
+            "sizes": [
+                0.5,
+                0.7,
+                1
+            ],
+            "category": 1,
+            "rating": 1
+        },
+        {
+            "id": 19,
+            "imageUrl": "https://static.decanter.ru/image/320505-kon-iak-remy-martin-louis-xiii-grande-champagne-0-7-l.jpg",
+            "name": "Коньяк Remy Martin Louis XIII Grande Champagne",
+            "text": "Коньяк «Реми Мартин Луи 13 Гранд Шампань» назван в честь короля Франции Людовика XIII, во времена которого был основан знаменитый коньячный дом.",
+            "price": 3420,
+            "sizes": [
+                0.5,
+                0.7,
+                1
+            ],
+            "category": 1,
+            "rating": 1
+        },
+        {
+            "id": 20,
+            "imageUrl": "https://static.decanter.ru/image/320505-kon-iak-remy-martin-louis-xiii-grande-champagne-0-7-l.jpg",
+            "name": "Коньяк Chateau du Breuil Fine Calvados 3 Years",
+            "text": "Кальвадос золотистого цвета с нежным яблочным ароматом. Изготовлен из лучших яблок региона Пэй д’Ож и выдержан в бочках из дуба не менее 3 лет.",
+            "price": 94,
+            "sizes": [
+                0.5,
+                0.7,
+                1
+            ],
+            "category": 1,
+            "rating": 31
+        },
+        {
+            "id": 21,
+            "imageUrl": "https://static.decanter.ru/image/345003-kon-iak-a-e-dor-vsop-rare-fine-champagne-0-7-l.jpg",
+            "name": "Коньяк A. E. Dor VSOP Rare Fine Champagne",
+            "text": "В купаж вошли редкие спирты Гран и Пти Шампани, выдержанные в сырых погребах дома A.E. Dor не менее 8 лет.",
+            "price": 166,
+            "sizes": [
+                0.5,
+                0.7,
+                1
+            ],
+            "category": 1,
+            "rating": 15
+        },
+        {
+            "id": 22,
+            "imageUrl": "https://static.decanter.ru/image/231957-kon-iak-lheraud-cognac-cuvee-10-0-7-l.jpg",
+            "name": "Коньяк Lheraud Cognac Cuvee 10",
+            "text": "Купаж спиртов одного года производства, выдержанных в бочках из лимузенского и тронсейского дуба. Происхождение спиртов: Пти Шампань.",
+            "price": 166,
+            "sizes": [
+                0.5,
+                0.7,
+                1
+            ],
+            "category": 1,
+            "rating": 18
+        },
+        {
+            "id": 23,
+            "imageUrl": "https://static.decanter.ru/image/301161-kon-iak-louis-royer-vsop-0-7-l.jpg",
+            "name": "Коньяк Louis Royer VSOP",
+            "text": "Коньячные спирты в составе изготавливаются исключительно из винограда Уньи Блан, а для выдержки используются бочки из лимузенского дуба.",
+            "price": 150,
+            "sizes": [
+                0.5,
+                0.7,
+                1
+            ],
+            "category": 1,
+            "rating": 8
+        },
+        {
+            "id": 24,
+            "imageUrl": "https://static.decanter.ru/image/334362-kheresnyi-brendi-cardenal-mendoza-solera-gran-reserva-0-7-l.jpg",
+            "name": "Коньяк Cardenal Mendoza Solera Gran Reserva",
+            "text": "Испанский хересный бренди с округлым, теплым вкусом и насыщенным, ярким цветом красного дерева выдержан по системе Солера не менее 15 лет.",
+            "price": 1780,
+            "sizes": [
+                0.5,
+                0.7,
+                1
+            ],
+            "category": 1,
+            "rating": 8
+        },
+        {
+            "id": 25,
+            "imageUrl": "https://static.decanter.ru/image/290083-kon-iak-chateau-de-montifaud-20-years-old-0-7-l.jpg",
+            "name": "Коньяк Chateau de Montifaud 20 Years Old",
+            "text": "Chateau Montifaud - торговая марка, под которой производятся коньяки высшего качества. Компания, существующая на рынке алкоголя с 1837 года, принадлежит семье Валле, члены которой уже на протяжении шести поколений занимаются созданием превосходных спиртных напитков.",
+            "price": 524,
+            "sizes": [
+                0.5,
+                0.7,
+                1
+            ],
+            "category": 1,
+            "rating": 8
+        },
+        {
+            "id": 26,
+            "imageUrl": "https://static.decanter.ru/image/319706-kon-iak-lheraud-cognac-1970-fins-bois-0-7-l.jpg",
+            "name": "Коньяк Lheraud Cognac 1970 Fins Bois",
+            "text": "Миллезимный коньяк 1970 обладает красивым янтарным цветом с золотистым оттенком и произведен из лучших спиртов Фэн Буа.",
+            "price": 2231,
+            "sizes": [
+                0.5,
+                0.7,
+                1
+            ],
+            "category": 1,
+            "rating": 8
+        }
+        
+        ,
+        {
+            "id": 27,
+            "imageUrl": "https://static.decanter.ru/image/319357-rom-barcelo-imperial-0-7-l.jpg",
+            "name": "Ром Barcelo Imperial",
+            "text": "Доминиканский ром премиум-класса, визитная карточка дома Barcelo. Великолепно сбалансирован и характеризуется насыщенным, многогранным вкусом.",
+            "price": 61,
+            "sizes": [
+                0.5,
+                0.7,
+                1
+            ],
+            "category": 2,
+            "rating": 8
+        },
+        {
+            "id": 28,
+            "imageUrl": "https://static.decanter.ru/image/305429-rom-legendario-elixir-de-cuba-0-7-l.jpg",
+            "name": "Ром Legendario Elixir de Cuba",
+            "text": "Уникальная смесь выдержанного рома и экстрактов изюма крепостью 35%. Великолепен сам по себе и как основа для ромового пунша.",
+            "price": 131,
+            "sizes": [
+                0.5,
+                0.7,
+                1
+            ],
+            "category": 2,
+            "rating": 4
+        },
+        {
+            "id": 29,
+            "imageUrl": "https://static.decanter.ru/image/337250-rom-botucal-reserva-exclusiva-0-7-l.jpg",
+            "name": "Ром Botucal Reserva Exclusiva",
+            "text": "Премиальный венесуэльский ром длительной выдержки. Обладает богатым, мощным телом и сладким, маслянистым вкусом с нотами шоколада и ванили.",
+            "price": 245,
+            "sizes": [
+                0.5,
+                0.7,
+                1
+            ],
+            "category": 2,
+            "rating": 8
+        },
+        {
+            "id": 30,
+            "imageUrl": "https://static.decanter.ru/image/305783-rom-dictador-20-yo-0-7-l.jpg",
+            "name": "Ром Dictador 20 YO",
+            "text": "Идея создания предприятия по производству рома в Колумбии принадлежит испанскому коммерсанту Severo Arango y Ferro.",
+            "price": 217,
+            "sizes": [
+                0.5,
+                0.7,
+                1
+            ],
+            "category": 2,
+            "rating": 5
+        },
+        {
+            "id": 31,
+            "imageUrl": "https://static.decanter.ru/image/304735-rom-havana-club-seleccion-de-maestros-0-7-l.jpg",
+            "name": "Ром Havana Club Seleccion de Maestros",
+            "text": "Seleccion de Maestros – один из представителей лучших образцов выдержанного рома, которые собраны в линейке Havana Club Iconica Collection (Havana Club UNION, Havana Club Maximo).",
+            "price": 79,
+            "sizes": [
+                0.5,
+                0.7,
+                1
+            ],
+            "category": 2,
+            "rating": 7
+        },
+        {
+            "id": 32,
+            "imageUrl": "https://static.decanter.ru/image/275541-rom-angostura-1787-0-7-l.jpg",
+            "name": "Ром Angostura 1787",
+            "text": "Для приготовления рома используется меласса - черная патока, побочный продукт при переработке сахарного тростника, содержащая большое количество сахаров. ",
+            "price": 126,
+            "sizes": [
+                0.5,
+                0.7,
+                1
+            ],
+            "category": 2,
+            "rating": 14
+        },
+        {
+            "id": 33,
+            "imageUrl": "https://static.decanter.ru/image/305587-rom-rl-seal-s-10-years-0-7-l.jpg",
+            "name": "Ром RL Seal's 10 Years",
+            "text": "Ром обладает яркими нотами орехов, гладким и шелковистым вкусом с оттенками фига, цветов и пряностей, с легкими тонами ванили и сушеных фруктов.",
+            "price": 288,
+            "sizes": [
+                0.5,
+                0.7,
+                1
+            ],
+            "category": 2,
+            "rating": 3
+        },
+        {
+            "id": 34,
+            "imageUrl": "https://static.decanter.ru/image/304897-rom-presidente-15-years-0-7-l.jpg",
+            "name": "Ром Presidente 15 Years",
+            "text": "Характеризуется богатством и насыщенностью, сложностью и гармонией. Он разливается теплом, открывая ноты ириски, меда, древесины, сухофруктов и пряный специй.",
+            "price": 132,
+            "sizes": [
+                0.5,
+                0.7,
+                1
+            ],
+            "category": 2,
+            "rating": 3
+        },
+        {
+            "id": 35,
+            "imageUrl": "https://static.decanter.ru/image/324269-rom-dictador-2-masters-hardy-summer-1976-1978-0-7-l.jpg",
+            "name": "Ром Dictador 2 Masters Hardy Summer 1976/1978",
+            "text": "Преобладают тона изюма, сухофруктов, меда и карамели, которые гармонично дополняются нюансами обжаренных кофейных зерен, ванили и коры дуба.",
+            "price": 2131,
+            "sizes": [
+                0.5,
+                0.7,
+                1
+            ],
+            "category": 1,
+            "rating": 1
+        },
+        {
+            "id": 36,
+            "imageUrl": "https://static.decanter.ru/image/319706-kon-iak-lheraud-cognac-1970-fins-bois-0-7-l.jpg",
+            "name": "Ром Zacapa Centenario Solera Gran Reserva XO ",
+            "text": "Превосходно сбалансированный гватемальский ром. Состоит из спиртов возрастом 6-25 лет, прошедших дополнительную выдержку в бочках из-под коньяка.",
+            "price": 311,
+            "sizes": [
+                0.5,
+                0.7,
+                1
+            ],
+            "category": 2,
+            "rating": 8
+        },
+        {
+            "id": 37,
+            "imageUrl": "https://static.decanter.ru/image/305681-rom-facundo-paraiso-0-7-l.jpg",
+            "name": "Ром Facundo Paraiso",
+            "text": "Чтобы создать этот исключительный ром, финальная выдержка PARAISO проходит в бочках из-под французского коньяка выдержки XO, некоторые из которых старше 60 лет.",
+            "price": 731,
+            "sizes": [
+                0.5,
+                0.7,
+                1
+            ],
+            "category": 2,
+            "rating": 1
+        }
+    ]
+}
